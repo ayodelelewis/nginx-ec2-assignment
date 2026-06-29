@@ -114,3 +114,4 @@ sudo nginx -t   # config syntax check
 ## Author
 
 Lewis — cloud computing student.
+<img width="1600" height="900" alt="WhatsApp Image 2026-06-29 at 1 54 39 PM" src="https://github.com/user-attachments/assets/01ffcb3c-7de9-4290-9a45-464f96bfbcfe" />
